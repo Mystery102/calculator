@@ -1,0 +1,25 @@
+section {
+    border: 3px solid black;
+    width: max-content;
+    border-radius: 20px;
+    padding: 100px 10px 10px 10px;
+    height: 270px;
+
+    
+}
+#result {
+ background-color: transparent;
+ border: none;
+ border-bottom: 1px solid blue;
+ padding: 10px;
+ font-size: medium;
+}
+
+input[type="button"] {
+   border: none;
+   width: 100%;
+   color: white;
+   padding: 10px;
+   font-size: large;
+   background-color: rgb(102, 100, 167)
+}  
